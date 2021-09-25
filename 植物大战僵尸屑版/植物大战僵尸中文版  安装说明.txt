@@ -1,0 +1,1 @@
+直接运行目录下的  PlantsVsZombies.exe
